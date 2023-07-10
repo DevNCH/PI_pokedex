@@ -1,1 +1,0 @@
-from pokedex import professor, Conexao
