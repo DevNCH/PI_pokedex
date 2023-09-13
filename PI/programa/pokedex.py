@@ -17,7 +17,7 @@ class Conexao:
         self.conexao = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="Gk24ibp79",
+            password="",
             database="pokedex"
         )
         self.cursor = self.conexao.cursor()
